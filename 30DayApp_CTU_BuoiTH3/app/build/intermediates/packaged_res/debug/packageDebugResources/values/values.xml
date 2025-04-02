@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">30DayApp_CTU_BuoiTH3</string>
+    <string name="ngay_1">Hello buổi 1</string>
+    <string name="ngay_10">Hello buổi 10</string>
+    <string name="ngay_10_info">Buổi 10 bùng nổ</string>
+    <string name="ngay_1_info">Buổi 1 vui vẻ</string>
+    <string name="ngay_2">Hello buổi 2</string>
+    <string name="ngay_2_info">Buổi 2 đau khổ</string>
+    <string name="ngay_3">Hello buổi 3</string>
+    <string name="ngay_3_info">Buổi 3 hăng hái</string>
+    <string name="ngay_4">Hello buổi 4</string>
+    <string name="ngay_4_info">Buổi 4 đầy năng lượng</string>
+    <string name="ngay_5">Hello buổi 5</string>
+    <string name="ngay_5_info">Buổi 5 bứt phá</string>
+    <string name="ngay_6">Hello buổi 6</string>
+    <string name="ngay_6_info">Buổi 6 kiên trì</string>
+    <string name="ngay_7">Hello buổi 7</string>
+    <string name="ngay_7_info">Buổi 7 nỗ lực không ngừng</string>
+    <string name="ngay_8">Hello buổi 8</string>
+    <string name="ngay_8_info">Buổi 8 tăng tốc</string>
+    <string name="ngay_9">Hello buổi 9</string>
+    <string name="ngay_9_info">Buổi 9 sảng khoái</string>
+    <style name="Theme._30DayApp_CTU_BuoiTH3" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

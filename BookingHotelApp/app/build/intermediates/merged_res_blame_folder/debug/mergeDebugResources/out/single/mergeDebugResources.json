@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_penthouse_suite.jpg.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/penthouse_suite.jpg"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_deluxe_room.jpg.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/deluxe_room.jpg"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_standard_room.jpg.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/standard_room.jpg"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/xml_backup_rules.xml.flat",
+        "source": "com.example.superreview.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_execute_room.jpg.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/execute_room.jpg"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_single_room.jpg.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/single_room.jpg"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_suite.jpg.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/suite.jpg"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.superreview.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_family_room.jpg.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/family_room.jpg"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.superreview.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.superreview.app-debug-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.superreview.app-main-53:/drawable/ic_launcher_foreground.xml"
+    }
+]
